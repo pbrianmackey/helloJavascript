@@ -1,0 +1,23 @@
+{
+  "name": "hellojavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbrianmackey/helloJavascript.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "James Bennett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbrianmackey/helloJavascript/issues"
+  },
+  "homepage": "https://github.com/pbrianmackey/helloJavascript#readme"
+}
